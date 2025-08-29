@@ -1,4 +1,7 @@
 ---
+description: 'using the reasearch paper on  Phonon transport at interfaces: [Determining
+  the correct modes of vibration](https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/6/1786/files/2019/10/2015-Phonon-Transport-at-Interfaces-Determining-the-Correct-Modes-of-Vibration.pdf)
+  published by Kiarash Gordiz, and Asegun Henry'
 output-file: phonon_intro.html
 title: Phonon Transport at Interfaces
 
