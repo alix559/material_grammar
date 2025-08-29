@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "material_grammar"
+  site-url: "https://alix559.github.io/material_grammar"
+  description: "material science using graph neural networks"
+  repo-branch: main
+  repo-url: "https://github.com/alix559/material_grammar"
