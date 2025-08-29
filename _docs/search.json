@@ -4,10 +4,7 @@
     "href": "core.html",
     "title": "core",
     "section": "",
-    "text": "foo\n\n foo ()",
-    "crumbs": [
-      "core"
-    ]
+    "text": "foo\n\n foo ()"
   },
   {
     "objectID": "study_plan.html",
@@ -54,17 +51,7 @@
     "href": "index.html",
     "title": "material_grammar",
     "section": "",
-    "text": "This file will become your README and also the index of your documentation.",
-    "crumbs": [
-      "material_grammar"
-    ]
-  },
-  {
-    "objectID": "index.html#developer-guide",
-    "href": "index.html#developer-guide",
-    "title": "material_grammar",
-    "section": "Developer Guide",
-    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall material_grammar in Development mode\n# make sure material_grammar package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to material_grammar\n$ nbdev_prepare",
+    "text": "Install latest from the Github repository\n\n$ pip install git+https://github.com/alix559/material_grammar.git",
     "crumbs": [
       "material_grammar"
     ]
@@ -73,18 +60,8 @@
     "objectID": "index.html#usage",
     "href": "index.html#usage",
     "title": "material_grammar",
-    "section": "Usage",
-    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/alix559/material_grammar.git\nor from conda\n$ conda install -c alix559 material_grammar\nor from pypi\n$ pip install material_grammar\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
-    "crumbs": [
-      "material_grammar"
-    ]
-  },
-  {
-    "objectID": "index.html#how-to-use",
-    "href": "index.html#how-to-use",
-    "title": "material_grammar",
-    "section": "How to use",
-    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "section": "",
+    "text": "Install latest from the Github repository\n\n$ pip install git+https://github.com/alix559/material_grammar.git",
     "crumbs": [
       "material_grammar"
     ]

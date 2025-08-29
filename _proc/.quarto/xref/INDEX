@@ -9,9 +9,11 @@
   },
   "index.ipynb": {
     "index.html": "1c8445c2",
-    "index.html.md": "2d740490"
+    "index.html.md": "2d740490",
+    "README.md": "cbd3335d"
   },
   "00_core.ipynb": {
-    "core.html": "a493864d"
+    "core.html": "a493864d",
+    "core.html.md": "075c27c5"
   }
 }

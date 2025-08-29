@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 01_study_plan.ipynb
+      - 02_phonon_intro.ipynb
